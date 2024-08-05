@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Th1nAI News</title>
+        <description>The latest updates and news about Th1nAI</description>
+        <language>en-us</language>
+        <item>
+            <title>New Model Released: Octopus</title>
+            <description>We're excited to announce the release of our latest AI model, Octopus! This model brings enhanced capabilities and performance.</description>
+            <pubDate>Mon, 05 Aug 2024 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>New Blurple Color Theme</title>
+            <description>Experience Th1nAI in a fresh new way with our brand-new blurple color theme. Now available for all users.</description>
+            <pubDate>Mon, 05 Aug 2024 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Th1nAI Version 2024.32 (Octopus) Beta</title>
+            <description>Th1nAI version 2024.32, featuring the Octopus model, is now in beta. Join the beta program to try out the latest features and improvements.</description>
+            <pubDate>Mon, 05 Aug 2024 12:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
