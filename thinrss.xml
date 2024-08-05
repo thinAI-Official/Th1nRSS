@@ -21,7 +21,12 @@
         </item>
         <item>
             <title>Message of the Day</title>
-            <description>More games will be added to F0RT this morning, FOR THE MIGRATION STATUS, PLEASE MIGRATE UR LEGACY GDOCS (developers only).</description>
+            <description>More games will be added to F0RT this morning, I guess.</description>
+            <pubDate>Mon, 05 Aug 2024 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>Access Note</title>
+            <description>To access the RSS feed, be sure to donate to my friend's Patreon or Ko-Fi: <a href="https://www.patreon.com/th1nn">patreon.com/th1nn</a> or <a href="https://ko-fi.com/ranvir">ko-fi.com/ranvir</a>.</description>
             <pubDate>Mon, 05 Aug 2024 12:00:00 GMT</pubDate>
         </item>
     </channel>
