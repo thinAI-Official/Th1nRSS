@@ -26,8 +26,13 @@
         </item>
         <item>
             <title>Access Note</title>
-            <description>To access the RSS feed, be sure to donate to my friend's Patreon or Ko-Fi.</description>
+            <description>To access the RSS feed, be sure to donate to my friend's Patreon or Ko-Fi: patreon.com/th1nn or ko-fi.com/ranvir.</description>
             <pubDate>Mon, 05 Aug 2024 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title>F0RT1ND News for the Day</title>
+            <description>LinkSpace is now available for containing links: https://soomaln02.wixsite.com/linkspace</description>
+            <pubDate>Mon, 06 Aug 2024 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
