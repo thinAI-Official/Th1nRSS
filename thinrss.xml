@@ -27,16 +27,17 @@
         <item>
             <title>Access Note</title>
             <description>To access the RSS feed, be sure to donate to my friend's Patreon or Ko-Fi: patreon.com/th1nn or ko-fi.com/ranvir.</description>
-            <pubDate>Mon, 05 Aug 2024 12:00:00 GMT</pubDate>
+            <pubDate>TMon, 05 Aug 2024 12:00:00 GMT</pubDate>
         </item>
         <item>
             <title>F0RT1ND News for the Day</title>
             <description>LinkSpace is now available for containing links: https://soomaln02.wixsite.com/linkspace</description>
-            <pubDate>Mon, 06 Aug 2024 12:00:00 GMT</pubDate>
+            <pubDate>Tue, 06 Aug 2024 12:00:00 GMT</pubDate>
         </item>
-        <title>Blog Status Update</title>
-        <description>The blog update to WordPress is complete! After the 2024.8.2 is done, it will be released</description>
-        <pubDate>Wed, 07 Aug 2024 2:01:00 GMT</pubdate>
+        <item>
+            <title>Status Update: Blog Update Done</title>
+            <description>The blog update has been completed. All changes have been implemented and are now live.</description>
+            <pubDate>Wed, 07 Aug 2024 12:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
