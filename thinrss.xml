@@ -39,5 +39,10 @@
             <description>The blog update has been completed. All changes have been implemented and are now live.</description>
             <pubDate>Wed, 07 Aug 2024 12:00:00 GMT</pubDate>
         </item>
+        <item>
+            <title>Octopus Update Announcement</title>
+            <description>The Octopus model update will be released on September 9. A public release build will be made for offline builds and released to the site.</description>
+            <pubDate>Tue, 27 Aug 2024 12:00:00 GMT</pubDate>
+        </item>
     </channel>
 </rss>
